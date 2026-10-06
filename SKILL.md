@@ -3,6 +3,10 @@ name: tiktok-insight
 description: TikTok竞品洞察分析工具，实时监测竞品流量效果、快速拆解对标竞对作品、精准拆解透视竞品流量及策略、高效搭建关键词库，适用于TikTok品牌方、创作者等进行竞品分析、流量优化和关键词研究。提供3个能力①关键词搜索（可按点赞/相关度排序、发布时间筛选）②博主作品获取，按主页链接或用户名批量获取公开作品列表，支持最新/最热排序 ③视频评论抓取，按视频链接或作品 ID 获取评论内容、评论者与互动数据，输出结构化 JSON（含作者、互动数据、标签、链接）。
 license: MIT
 version: 1.0.0
+display_name: 🎯TikTok竞品洞察分析
+display_name_en: TikTok Competitor Insight Analysis
+description_zh: TikTok竞品洞察分析工具，实时监测竞品流量效果、快速拆解对标竞对作品、精准拆解透视竞品流量及策略、高效搭建关键词库，适用于TikTok品牌方、创作者等进行竞品分析、流量优化和关键词研究。
+description_en: TikTok Competitor Insight Analysis Tool. It monitors competitors' traffic performance in real time, quickly dissects benchmark competitors’ content, accurately analyzes competitors’ traffic and strategies, and efficiently builds keyword libraries. It is suitable for TikTok brands and creators to conduct competitor analysis, traffic optimization and keyword research.
 metadata:
   enabled: true
   type: command
